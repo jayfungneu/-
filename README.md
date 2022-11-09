@@ -6,7 +6,6 @@ My fellow Singaporeans
 
 Good evening.
 
-COVID-19
 We have come a long way in our fight against COVID-19. We are now learning to live with the virus. With each infection wave, we have managed the impact better. The latest, the Omicron BA.5 wave, is now subsiding.
 
 In many other countries, when a wave happens, cases shoot up furiously and then crash down suddenly, like a roller coaster. And when cases shoot up like that hospitals come under a lot of pressure. In Singapore, our waves grow as well as tail off more gradually. This suggests we have been effective in slowing down disease transmission. We have spread out the impact, and prevented our hospitals from being overwhelmed.
@@ -42,8 +41,6 @@ US-China relations, which sets the tone for global affairs, are worsening. The t
 Apart from US-China tensions, Russia’s invasion of Ukraine also has profound implications for the world, and for Singapore. First, the invasion violates the UN Charter and fundamental principles of sovereignty and territorial integrity. This is particularly important to Singapore. Our security, even our existence, relies on countries upholding these principles. We cannot legitimise Russia’s wrongful actions. Russia claims that what it calls a “special military operation” in Ukraine is justified by “historical" errors and "crazy" decisions. If we accept this logic, what happens if one day others use this same argument against us? Second, the war has created deep hostility between Russia and other states, especially US and NATO countries. Relations have completely broken down and there are nuclear powers on both sides. It is hard to imagine any satisfactory end to the conflict. Third, the war in Ukraine affects security in the Asia-Pacific. It has complicated the already strained US-China relations, and also relations between China and America’s partners in Asia, like Australia and Japan. We can expect more geopolitical contestation in the Asia-Pacific. Some countries will choose a side. Others, like Singapore, will try our best to avoid being caught up in major power rivalry. Our region has enjoyed peace for so long that it is hard for us to imagine things being different. But look at how things have gone wrong in Europe, how suddenly and quickly. Can you be sure that things cannot go wrong like that in our region too? So we must get real, and we must get ourselves prepared psychologically.
 
 What can we do about these external dangers? First, we must stand firm on fundamental principles of international law. Work with other countries to uphold a rules-based order. For example, by speaking up at the United Nations. Taking cover and keeping quiet will hurt us in the long term. Next, we must take National Service seriously, and keep the SAF and Home Team strong and credible. If we do not defend ourselves, no one is going to defend us on our behalf. Most importantly, we must stay one united people. Never allow ourselves to be divided – whether by race, religion, income, social differences, or place of birth. Stay alert against foreign actors who are looking out to exploit our vulnerabilities and to influence our people for their own interests. I talked about this in my Chinese speech. Do not believe that everything that you read online is true. If we are taken in and divided, we will stand no chance. But united, we can deal with any problems that come our way.
-
-Economic Challenges
 
 Besides strategic dangers, we also have to deal with economic issues. We have emerged strongly from the pandemic. Most sectors are steadily recovering, including hard-hit ones like tourism and aviation. But now the war in Ukraine has clouded our outlook, although we still expect positive growth this year.
 
@@ -117,7 +114,6 @@ There is much more to be said on this difficult subject. I am sure what I have s
 
 But tonight, I wanted to set out our broad approach on this issue. We have a stable and generally harmonious society, and we will work hard to keep things like this. I hope the new balance will enable Singapore to remain a tolerant and inclusive society for many years to come.
 
-Securing our Future
 While we deal with sensitive issues like s377A, please remember that it is not the only subject on the national agenda, we have many other important matters to deal with.
 
 The 4G team are gearing up for the next chapter of the Singapore story. Recently, DPM Lawrence Wong launched Forward Singapore. The conversation is to build consensus on the kind of Singapore we want to see. We want to meet the enduring aspirations of every Singaporean, including a good start in life, regardless of background; affordable housing and childcare when you get married; opportunities to upgrade yourself throughout your career; and a healthy and fulfilling retirement in your golden years. How can we achieve this, into the next generation? What specific goals should we set for ourselves? What do we need to do, what trade-offs do we have to make? How can we rally everyone to realise our shared vision? This is what the Forward Singapore conversation is about.
@@ -143,9 +139,6 @@ We must seize this opportunity, to secure Singapore’s place in the post-COVID-
 
 We are Singaporeans, and that is why we will never stop working together to build a home that we are all proud of.
 
-
-
-Tuas Port and Changi T5
 Our seaport and airport play a critical role putting us on the global stage. They connect us to the world, and keep Singapore a thriving business and trading hub. That is why we have always taken the long view, and continuously improve our sea- and air-ports.
 
 Ten years ago, I spoke about our plans for Tuas Port, and Changi Terminal 5. We have been working hard at these plans. Tonight, I want to give you an update.
@@ -164,7 +157,6 @@ In the same way, Changi Airport secures Singapore’s position as a global aviat
 
 Our decisions to press on with Changi T5 and Tuas Port send a strong and clear signal to the world that Singapore is emerging stronger from the pandemic, and charging full steam ahead.
 
-Long Term Plan Review
 Changi and Tuas are specific examples of how we plan our economic infrastructure.
 
 But I am sure you also want to know how we can live, work and play in the future.
@@ -189,7 +181,7 @@ Singaporeans sometimes worry that we will run out of space in future. That housi
 
 Our island may be small, but it holds great potential. Paya Lebar is just one example of how we are reimagining and transforming Singapore. We are doing this all across the island – Jurong Lake District, Greater Southern Waterfront, and many other areas too. Each new estate will be more liveable, greener, and more sustainable than the previous one. This is not easy to do, but just as past generations planned for and created the Singapore that we live in today, we too, must never stop imagining and building the future Singapore for the next generation and beyond.
 
-Conclusion
+
 I have touched on several challenges this evening.
 
 Whether we are tackling COVID-19 and preparing for the next pandemic, dealing with geopolitical dangers and economic uncertainties, handling sensitive domestic issues, or planning and building Singapore for the long term.
