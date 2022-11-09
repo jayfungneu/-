@@ -6,7 +6,7 @@ My fellow Singaporeans
 
 Good evening.
 
-We have **come a long way** in our fight against COVID-19. We are now learning to live with the virus. With each infection wave, we have managed the impact better. The latest, the Omicron BA.5 wave, is now subsiding.
+We have **come a long way** in our **fight against COVID-19**. We are now learning to **live with the virus**. With each infection wave, we have managed the impact better. The latest, the Omicron BA.5 wave, is now subsiding.
 
 In many other countries, when a wave happens, cases shoot up furiously and then crash down suddenly, like a roller coaster. And when cases shoot up like that hospitals come under a lot of pressure. In Singapore, our waves grow as well as tail off more gradually. This suggests we have been effective in slowing down disease transmission. We have spread out the impact, and prevented our hospitals from being overwhelmed.
 
@@ -26,15 +26,15 @@ Meanwhile, we must be prepared to encounter more variants and waves, because COV
 
 With our situation stabilising, we will reduce the mask requirements further to prevent people from getting tired. We will only require masks on public transport, where people are in prolonged close contact in a crowded space, and in healthcare settings, like clinics, hospitals, and residential and nursing homes, where there are vulnerable persons. Everywhere else, outdoors or indoors, masks will be optional. For schools in particular, we should not need masks in class. I know parents are a little bit worried, but I think there is no need to worry, we have assessed it, we think it is safe. The children do need to be able to see the facial expressions of their teachers and of each other. You have to learn to read faces. Is he angry? Is he happy? Did he say ‘ter’ or ‘the’? ‘Ker’ or ‘ger’? Otherwise you grow up with a blank space in your brain. It is crucial for their learning and development. But please do not take off your masks this very moment. Please wait for the detailed announcement from the MTF.
 
-Beyond these adjustments to SMMs, we must learn the lessons from COVID-19. One day, the next pandemic will come. A new virus will emerge, more transmissible, more adaptable and more dangerous than COVID-19 and we must be ready for it.
+Beyond these adjustments to SMMs, we must learn the lessons from COVID-19. One day, the next pandemic will come. A new virus will emerge, **more transmissible, more adaptable and more dangerous** than COVID-19 and we must be ready for it.
 
-The most important lesson is to maintain the spirit of personal and social responsibility, continue to nurture trust in our society, day in day out, during normal times, so that during the next crisis we can again draw upon a deep reservoir of trust to see us through, just like we have done during COVID-19.
-
-
-Amid the darkness of the pandemic...the Singapore spirit shone brightly. It has made us collectively a better people and a more resilient society.
+The most important lesson is to maintain the **spirit of personal and social responsibility**, continue to **nurture trust** in our society, day in day out, during normal times, so that during the next crisis we can again draw upon a deep reservoir of trust to see us through, just like we have done during COVID-19.
 
 
-Even as we emerge from the pandemic, our external environment has become very troubled.
+Amid the **darkness of the pandemic**...the Singapore spirit **shone brightly**. It has made us collectively a better people and a more resilient society.
+
+
+Even as we emerge from the pandemic, **our external environment** has become very troubled.
 
 US-China relations, which sets the tone for global affairs, are worsening. The two powers are divided over many issues – their rival ideologies and systems of government; China’s growing influence in the world; plus many specific problems, including trade disputes, cyber espionage, the South China Sea, Hong Kong; and most recently and worryingly, sharply escalating tensions over Taiwan. Yet the US and China need to work together on many pressing global issues, including climate change, pandemics, and nuclear proliferation. Their tense relationship is making this almost impossible. This is bad news for the world. President Joe Biden and President Xi Jinping recently held a long video call. They agreed to meet in-person. But neither side expects relations to improve any time soon. Furthermore, we must all hope that there are no miscalculations or mishaps, which can make things much worse very quickly.
 
