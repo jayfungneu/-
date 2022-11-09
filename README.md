@@ -8,7 +8,7 @@ Good evening.
 
 We have **come a long way** in our **fight against COVID-19**. We are now learning to **live with the virus**. With each infection wave, we have managed the impact better. The latest, the Omicron BA.5 wave, is now subsiding.
 
-In many other countries, when a wave happens, cases shoot up furiously and then crash down suddenly, like a roller coaster. And when cases shoot up like that hospitals come under a lot of pressure. In Singapore, our waves grow as well as tail off more gradually. This suggests we have been effective in slowing down disease transmission. We have spread out the impact, and prevented our hospitals from being overwhelmed.
+In many other countries, when a wave happens, cases **shoot up furiously** and then **crash down suddenly**, like a **roller coaster**. And when cases shoot up like that hospitals come under a lot of pressure. In Singapore, our waves grow as well as tail off more gradually. This suggests we have been effective in slowing down **disease transmission**. We have spread out the impact, and **prevented our hospitals from being overwhelmed**.
 
 Thus far, we have had fewer than 1,600 COVID-19-related deaths. Every death is one too many. But if our mortality rates had been like other countries, we could easily have suffered 10,000 COVID-19 deaths, or more by now. Our collective efforts have saved many lives.
 
